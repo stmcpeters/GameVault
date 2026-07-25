@@ -4,7 +4,7 @@ name: PULL_REQUEST_TEMPLATE
 
 about: This template's purpose is to maintain consistent pull requests
 
-title: ''
+title: '[GV-]: '
 
 labels: ''
 
@@ -29,11 +29,8 @@ Fixes # (issue number)
 Please check the options that are relevant to your changes:
 
 - [ ] 🐛 Bug fix (non-breaking change fixing an issue)
-
 - [ ] 🚀 New feature (non-breaking change adding functionality)
-
 - [ ] 💥 Breaking change (fix or feature causing existing features to break)
-
 - [ ] 📖 Documentation update
 
 
@@ -45,7 +42,6 @@ Describe the tests you ran to verify your changes. Provide instructions for revi
 
 
 - [ ] **Test Case A**: [Describe steps]
-
 - [ ] **Test Case B**: [Describe steps]
 
 
@@ -55,13 +51,8 @@ Describe the tests you ran to verify your changes. Provide instructions for revi
 By submitting this PR, I confirm that:
 
 - [ ] My code follows the code style guidelines of this project.
-
 - [ ] I have performed a self-review of my own code.
-
 - [ ] I have commented on my code, particularly in hard-to-understand areas.
-
 - [ ] I have made corresponding updates to the documentation.
-
 - [ ] My changes generate no new workspace errors or warnings.
-
 - [ ] I have added tests proving my fix is effective or feature works.
