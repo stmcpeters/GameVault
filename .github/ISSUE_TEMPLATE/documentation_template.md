@@ -1,7 +1,7 @@
 ---
 name: DOCUMENTATION_TEMPLATE
 about: Improve project documentation
-title: "[DOCS] "
+title: "[GV-XXX][DOCS] "
 labels: documentation
 assignees: stmcpeters
 
