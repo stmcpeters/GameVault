@@ -1,19 +1,3 @@
----
-
-name: PULL_REQUEST_TEMPLATE
-
-about: This template's purpose is to maintain consistent pull requests
-
-title: '[GV-]: '
-
-labels: ''
-
-assignees: stmcpeters
-
----
-
-
-
 ## 📝 Description
 
 Provide a concise summary of the changes introduced by this pull request and the underlying motivation.

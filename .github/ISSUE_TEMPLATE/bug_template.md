@@ -1,7 +1,7 @@
 ---
 name: BUG_TEMPLATE
 about: Creates a report to help us resolve bug issues
-title: "[BUG]"
+title: "[GV-XXX][BUG] "
 labels: bug
 assignees: stmcpeters
 
