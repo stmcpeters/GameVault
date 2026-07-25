@@ -4,7 +4,7 @@ name: PULL_REQUEST_TEMPLATE
 
 about: This template's purpose is to maintain consistent pull requests
 
-title: '[GV-]: '
+title: '[TYPE] '
 
 labels: ''
 

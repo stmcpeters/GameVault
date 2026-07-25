@@ -1,7 +1,7 @@
 ---
 name: BUG_TEMPLATE
 about: Creates a report to help us resolve bug issues
-title: "[BUG]"
+title: "[BUG] "
 labels: bug
 assignees: stmcpeters
 

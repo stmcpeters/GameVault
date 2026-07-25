@@ -1,7 +1,7 @@
 ---
 name: FEATURE_TEMPLATE
 about: Track new features or enhancements to existing features
-title: "[FEATURE]"
+title: "[FEATURE] "
 labels: feature
 assignees: stmcpeters
 
